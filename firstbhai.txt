@@ -1,0 +1,5 @@
+This is  a version of git
+i want to go into this commit bhai
+mango is a famous fruits in the world
+change by hamid bhai
+master file
